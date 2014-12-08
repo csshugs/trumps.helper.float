@@ -1,0 +1,16 @@
+{
+  "name": "inuit-float",
+  "version": "0.1.0",
+  "homepage": "https://github.com/TryGenesis/trumps.helper.float",
+  "authors": [
+    "Dennis Heibuelt <dennis@csshugs.com>"
+  ],
+  "description": "Float helper classes",
+  "main": "_trumps.helper.float.scss",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ],
+  "license": "Apache"
+}
