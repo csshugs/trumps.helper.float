@@ -1,3 +1,3 @@
-#float
+#Float
 
 Float helper classes.

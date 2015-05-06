@@ -3,19 +3,22 @@
 \*------------------------------------*/
 
 /**
- * Floats
+ * Float left.
  */
-.float--left,
-%float--left{
+.float-left {
     float: left !important;
 }
 
-.float--right,
-%float--right{
+/**
+ * Float right.
+ */
+.float-right {
     float: right !important;
 }
 
-.float--none,
-%float--none{
+/**
+ * Float none.
+ */
+.float-none {
     float: none !important;
 }
